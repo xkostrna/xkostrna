@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xkostrna.
-- 👀 I’m interested in programming (C++, Java).
-- 🌱 I’m currently learning (C++, Java).
+- 👀 I’m interested in programming (C++, Java, Javascript).
+- 🌱 I’m currently learning (C++, Java, Javascript).
 - 💞️ I’m looking to collaborate on something.
 - 📫 How to reach me: just send me a message.
 
